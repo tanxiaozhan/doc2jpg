@@ -616,7 +616,9 @@ Private Sub cmdOpen_Click()
 End Sub
 
 Private Sub Command1_Click()
+    
     Test
+
 End Sub
 
 Sub Test()
